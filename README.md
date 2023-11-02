@@ -8,6 +8,8 @@ Create a slack app
 	Added events for message.im
 	Group.im and several others based on the documentations available.
  Create a lambda with API gateway enabled.
+ 	Add BOT_TOKEN to environment variables in lambda
 	Code added to post a message in slack channel
-	Created a lambda package with dependency (https://github.com/emailsouravsinha/slack-lambda-chatbot/assets/12956051/2dd1ab33-6409-46b7-b7b7-9ce033af65d8)
+	Created a lambda package with dependency 
+ 	(https://github.com/emailsouravsinha/slack-lambda-chatbot/assets/12956051/2dd1ab33-6409-46b7-b7b7-9ce033af65d8)
 
